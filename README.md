@@ -54,10 +54,10 @@ Open your browser and go to the displayed URL (usually http://127.0.0.1:7860)
 
 # Project Structure
 
-├── rag_pipeline.py # Core RAG logic
+── rag_pipeline.py # Core RAG logic
 
-├── gradio_app.py # Web interface
+── gradio_app.py # Web interface
 
-├── requirements.txt # Dependencies
+── requirements.txt # Dependencies
 
-└── README.md
+── README.md
